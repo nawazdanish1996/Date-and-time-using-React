@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Date-time-using-React/static/css/main.0e477fd4.css",
+    "main.js": "/Date-time-using-React/static/js/main.347c5b32.js",
+    "index.html": "/Date-time-using-React/index.html",
+    "main.0e477fd4.css.map": "/Date-time-using-React/static/css/main.0e477fd4.css.map",
+    "main.347c5b32.js.map": "/Date-time-using-React/static/js/main.347c5b32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e477fd4.css",
+    "static/js/main.347c5b32.js"
+  ]
+}
